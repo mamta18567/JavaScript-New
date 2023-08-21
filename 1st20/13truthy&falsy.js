@@ -1,0 +1,1 @@
+// All values except 0, false, "", undefined, null are truthy values.
